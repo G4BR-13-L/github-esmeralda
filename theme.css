@@ -717,18 +717,18 @@ body {
     --color-purple: #6e5494;
     --color-pink: #f778ba;
 
-    --color-base-00: #0a0c10;
-    --color-base-10: #0a0c10;
-    --color-base-20: #0a0c10;
+    --color-base-00: #0d1117; /* Fundo do texto */
+    --color-base-10: #010409;
+    --color-base-20: #010409; /* Fundo da barra lateral e margens */
     /* --color-base-10: #161b22; */
     /* --color-base-20: #161b22; */
     --color-base-25: #010409;
-    --color-base-30: #30363d; /*Linhas do frame*/
+    --color-base-30: #45494e; /*Linhas do frame*/
     --color-base-35: #21262d;
     --color-base-40: #30363d;
-    --color-base-50: #6e7681;
+    --color-base-50: #c9d1d9;
     --color-base-60: #999; /* Unused */
-    --color-base-70: #8b949e;
+    --color-base-70: #c9d1d9;
     --color-base-100: #c9d1d9;
 
     --accent-h-theme: 212;
